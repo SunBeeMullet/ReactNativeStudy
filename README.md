@@ -14,3 +14,4 @@ Learning React Native
 - expo init AwesomeProject
 - Android application downloaded.
 - Something went wrong, Tunnel Ready not showing up (Reboot)
+- Working after reboot, Tunnel ready, building JS bundle, Expo app working/connected.
