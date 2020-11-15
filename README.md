@@ -20,3 +20,8 @@ Learning React Native
 - location moved from C: to E: (cd ReactNativeStudy\AwesomeProject)
 - npm start (|| expo start)
 - Successfully working.
+
+## 2020-11-15
+- React Native CLI
+- Chocolately Install (@powershell error)
+- sfc /scannow (system scanning)
