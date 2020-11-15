@@ -15,3 +15,8 @@ Learning React Native
 - Android application downloaded.
 - Something went wrong, Tunnel Ready not showing up (Reboot)
 - Working after reboot, Tunnel ready, building JS bundle, Expo app working/connected.
+
+## 2020-11-14
+- location moved from C: to E: (cd ReactNativeStudy\AwesomeProject)
+- npm start (|| expo start)
+- Successfully working.
